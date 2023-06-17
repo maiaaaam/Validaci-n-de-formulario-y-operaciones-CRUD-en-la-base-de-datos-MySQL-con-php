@@ -3,12 +3,12 @@
 En el front-end:
 
 Crearemos un formulario con los siguientes campos:
--        Nombre
--        Primer apellido
--        Segundo apellido
--        email
--        Login
--        password
+- Nombre
+- Primer apellido
+- Segundo apellido
+- email
+- Login
+- password
 
  
 
